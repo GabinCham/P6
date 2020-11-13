@@ -1,0 +1,42 @@
+td {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+}
+
+.map {
+    margin-top: 15%;
+}
+
+.players {
+    text-align: center;
+}
+
+.title {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.wall {
+    background-image: url("../wall.svg");
+    background-size: 50px;
+}
+
+.gunTwo {
+    background-image: url("../gun.svg");
+    background-size: 50px;
+    background-color: blue;
+}
+
+.gunDefault {
+    background-image: url("../gun.svg");
+    background-size: 50px;
+    background-color: red;
+}
+
+.player, .secondPlayer, .firstPlayer {
+    background-image: url("../player.svg");
+    background-size: 50px;
+    background-color: cadetblue;
+}
+
